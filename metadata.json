@@ -1,0 +1,6 @@
+{
+  "name": "Zyro",
+  "description": "A highly intelligent futuristic AI assistant with a Jarvis-like personality, capable of coding assistance, learning, and simulated system control.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
